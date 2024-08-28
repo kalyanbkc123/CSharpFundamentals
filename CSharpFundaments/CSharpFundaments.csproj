@@ -5,6 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>CSharpFundaments.Fundmentals._15AnonymousType</StartupObject>
   </PropertyGroup>
 
 </Project>
