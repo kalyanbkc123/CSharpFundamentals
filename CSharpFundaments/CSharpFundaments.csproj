@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpFundaments.Fundmentals.DoWhileLoop</StartupObject>
+    <StartupObject>CSharpFundaments.Exception1.Program1</StartupObject>
   </PropertyGroup>
 
 </Project>
